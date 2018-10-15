@@ -1,0 +1,23 @@
+html {
+    background-color: floralwhite;
+}
+
+header {
+    background-color: darkred;
+    padding: 1px;
+}
+
+h1 {
+    font-size: 35px;
+    color: white;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a {
+    text-decoration-style: none;
+    color: black;
+}
+.egipt text colore {
+    background-color: rgb(73, 8, 8);
+}
